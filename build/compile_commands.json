@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/robert/PAOO/Tema2/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/Tema2.dir/main.cpp.o -c /home/robert/PAOO/Tema2/main.cpp",
+  "file": "/home/robert/PAOO/Tema2/main.cpp"
+}
+]
